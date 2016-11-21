@@ -44,7 +44,7 @@ public class PaintPanel
 
     private boolean drawControlPolygon = true;
 
-    private boolean uniformRender = false;
+    private boolean uniformRender = true;
 
     private boolean drawPointsOnCurve = true;
 

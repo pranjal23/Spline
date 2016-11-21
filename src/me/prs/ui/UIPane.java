@@ -60,7 +60,7 @@ public class UIPane
             }
         });	
         
-        this.renderAdaptive = new JCheckBox("Adaptive Render", true);
+        this.renderAdaptive = new JCheckBox("Adaptive Render", false);
         this.renderAdaptive.setFocusable(false);
         this.renderAdaptive.addActionListener(new ActionListener() {
             @Override
