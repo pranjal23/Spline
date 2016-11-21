@@ -151,7 +151,7 @@ public class UIPane
 		p.add(this.slider);
 		p.add(this.drawControlPolygon);
 		p.add(this.drawCurvePoints);
-		p.add(this.renderAdaptive);
+		//p.add(this.renderAdaptive);
 		//p.add(this.adaptiveBernstein);
 		p.add(rbuttonPanel);
 		p.add(this.resetButton);
